@@ -1,0 +1,20 @@
+Lappeenrannan teknillinen yliopisto
+School of Business and Management
+
+
+Software Development Skills 
+
+Vijeth Shetty , 
+
+LEARNING DIARY , FULL-STACK MODULE 2023-2024
+
+09.11.2023
+ I use github desktop on windows which makes version control  easier . 
+
+ 
+
+10.11.2023
+installed vs code and node js . 
+
+11.11.2023
+ created a repository on github and pushed local files online.
