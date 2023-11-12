@@ -21,3 +21,7 @@ installed vs code and node js .
 watched node js tutorial video , created npm dependency folder and added them to git ignore list.
 have to run npm instal at the beginning of pulling the project.
 how to instal and use modules . learned about path module . 
+
+12.11.2023
+ learned about fs module and arrow function . 
+learn foreach method, running a simple server using http module  , checking system info using os module ,  event emitters and a simple logger with it . 
