@@ -29,4 +29,12 @@ learn foreach method, running a simple server using http module  , checking syst
 13.11.2023
 create sample page and learn how to use nodemon using script in package json file . 
 created index and about page and run using node modules https , fs and path .
-installed mongodb and snooped around the app . 
+installed mongodb and snooped around the app .
+
+14,11,2023
+ checked out mongodb shell commands , how to access and edit data in a database . 
+15.11.2023
+learned how to use compass and how to create clusters on mongodb and connect it to on the computer and edit it using mongo shell . Had trouble setting up the environment variable at start .
+
+19.11.2023
+started with express and postman , learned how to set up a server and what an api is . How post man works 
