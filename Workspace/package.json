@@ -6,12 +6,13 @@
   "scripts": {
     "start": "node index",
     "dev": "nodemon index",
-    "example": " npm run dev " 
+    "example": " npm run dev "
   },
   "author": "vijeth shetty",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
+    "express-handlebars": "^7.1.2",
     "uuid": "^9.0.1"
   },
   "devDependencies": {

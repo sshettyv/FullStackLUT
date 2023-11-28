@@ -38,3 +38,13 @@ learned how to use compass and how to create clusters on mongodb and connect it 
 
 19.11.2023
 started with express and postman , learned how to set up a server and what an api is . How post man works 
+
+21.11.2023
+
+learned how to use post and get request between Post man and express and view static data . then i learned how to use put request to update the data and delete to delete data  . the basics of a CRUD api (create read update and delete).
+
+22.11.2023 
+had trouble using handlebars as the video version and the current installed version was different . learn about making a form and CRUD api . 
+
+27.11.2023 
+started learning angular .
