@@ -48,3 +48,6 @@ had trouble using handlebars as the video version and the current installed vers
 
 27.11.2023 
 started learning angular .
+
+28.11
+added header as per the tutorial but keep getting NG8001 , looks like its an error related to the current version of angular, finally a youtube comment helped me out. looks like the import doesnt happen automatically using CLI but you have do it by yourself .  
