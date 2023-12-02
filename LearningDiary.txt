@@ -51,3 +51,8 @@ started learning angular .
 
 28.11
 added header as per the tutorial but keep getting NG8001 , looks like its an error related to the current version of angular, finally a youtube comment helped me out. looks like the import doesnt happen automatically using CLI but you have do it by yourself .  
+
+30.11
+try to add a button and the error showed back up , when trying to import app button into header module , so decided to just follow the official tutorial angular io as its hard for me to learn and debug at the same time . had trouble with the official trouble too as the new version of angular 17 create a standalone app by default , so have to    ng new --standalone=false  to get the module file 
+
+https://angular.io/tutorial/tour-of-heroes
